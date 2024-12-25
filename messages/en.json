@@ -1,0 +1,513 @@
+{
+  "Header": {
+    "menu": [
+      "Home",
+      "Restaurants",
+      "About",
+      "How it works",
+      "FAQs"
+    ],
+    "search": "Search...",
+    "more": "More",
+    "signUp": "Sign Up",
+    "dropdown": ["Profile", "Your Basket", "Your Orders", "Checkout", "Logout"]
+  },
+
+  "Footer": {
+    "text": "Follow Us: Stay updated with our latest promotions and restaurant partners on our social media channels",
+    "popular": {
+      "title": "Popular",
+      "links": [
+        "Programming",
+        "Books for children",
+        "Psychology",
+        "Business"
+      ]
+    },
+    "cash": {
+      "title": "Cash",
+      "links": [
+        "Delivery",
+        "Payment",
+        "About the store"
+      ]
+    },
+    "help": {
+      "title": "Help",
+      "links": [
+        "Contacts",
+        "Purchase returns",
+        "Buyer help"
+      ]
+    },
+    "copyright": "All rights reserved © 2003-2023 Foody TERMS OF USE | Privacy Policy"
+  },
+  "Login": {
+    "Metadata": {
+      "title": "Login",
+      "description": "Foody Login Page"
+    },
+    "signIn": "Login",
+    "signUp": "Register",
+    "form": {
+      "fullName": "Full Name",
+      "userName": "Username",
+      "email": "Email",
+      "password": "Password",
+      "btnSignIn": "Log in",
+      "btnSignUp": "Register"
+    }
+  },
+  "Home": {
+    "Metadata": {
+      "title": "Home",
+      "description": "Foody Home Page"
+    },
+    "Hero": {
+      "title": "Our Food site makes it easy to find local food",
+      "text": "Welcome to our food delivery platform, where finding local cuisine has never been easier! We are dedicated to connecting you with the best eateries in your area, allowing you to explore a diverse array of culinary delights right at your fingertips.",
+      "firstBtn": "Get Started",
+      "secondBtn": "Order now"
+    },
+    "Features": {
+      "title": "Features",
+      "text": "Wide variety of restaurants. We have an extensive list of local restaurants serving a variety of cuisines. From Italian pasta to Japanese sushi, you will always find something to suit your taste!",
+      "cardsTitle": ["Discount Boucher", "Fresh healthy Food", "Fast Home Delivery"],
+      "cardsText": [
+        "You just need to select a restaurant, a menu and place an order in just a few clicks.",
+        "Our team of couriers work quickly and efficiently to deliver your favorite meal as quickly as possible",
+
+        "We value every customer and strive to make your experience as pleasant as possible."
+      ]
+    },
+    "Food": {
+      "titles": [
+        "Menu That Always Make You Fall In Love",
+        "Yummy Always Papa John’s Pizza.Agree?",
+        "Do You Like French Fries? Mmm..."
+      ],
+      "texts": [
+        "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+        "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+      ]
+    },
+    "Popular": {
+      "title": "Our Popular Update New Foods",
+      "text": "Discover the latest additions to our menu that are already winning hearts and taste buds across the city. We are excited to introduce a variety of new dishes that combine fresh ingredients, innovative flavors, and the culinary expertise of our partner restaurants",
+      "cardsTitles": ["Dubble Chees", "Margarita", "Twister Menu"],
+      "cardsTexts": [
+        "Try our new range of gourmet burgers, featuring premium beef patties, fresh vegetables, and artisanal buns.",
+        "From spicy tuna to dragon rolls, each piece is crafted with the finest ingredients and meticulous attention to detail.",
+        "Enjoy rich, creamy sauces paired with perfectly cooked pasta. "
+      ]
+    },
+    "Discover": {
+      "title": "Discover Restaurants Near From you",
+      "buttonText": "Explore"
+    }
+  },
+
+  "Restaurants": {
+    "Metadata": {
+      "title": "Restaurants",
+      "description": "Find the best restaurants in your area. Compare menus, prices, and reviews to make the right choice."
+    }
+  },
+
+  "AboutUs": {
+    "Metadata": {
+      "title": "About Us",
+      "description": "Welcome to Foody, your ultimate food delivery companion! Our mission is to connect you with the best local restaurants and make dining out an effortless experience from the comfort of your home.Our team works tirelessly to partner with the finest eateries in town, ensuring that you have access to a diverse menu that caters to every palate. With our easy-to-use app, you can browse menus, read reviews, and place your orders in just a few taps."
+    }
+  },
+
+  "HowItWorks": {
+    "Metadata": {
+      "title": "How it works",
+      "description": "Learn how our service works and what benefits it can offer you."
+    },
+    "title": "How it works",
+    "text": "Delivery may be extended during sale periods. Please refer to the checkout page for an updated estimate for your location. Kindly note that once you have placed an order, it is no longer possible to modify your order. Taxes and duties are included in all product prices.It is possible to place an order with shipment to a different address than your home or billing address when paying with a credit card. Please note that Klarna payments require that your order is shipped to your registered home address."
+  },
+
+  "FAQs": {
+    "Metadata": {
+      "title": "FAQ",
+      "description": "Frequently Asked Questions (FAQs) is a section on a website that lists answers to common questions that users may have."
+    },
+    "title": "FAQ's",
+    "items": {
+      "faqFirst": {
+        "question": "How to contact with Customer Service?",
+        "answer": "Our Customer Experience Team is available 7 days a week and we offer 2 ways to get in contact.Email and Chat . We try to reply quickly, so you need not to wait too long for a response!."
+      },
+      "faqSecond": {
+        "question": "App installation failed, how to update system information?",
+        "answer": "To update system information after a failed app installation, follow these steps:\n1. Check your device's network connection.\n2. Restart your device.\n3. Ensure your device has enough storage space.\n4. Update your device's operating system to the latest version.\n5. Try reinstalling the app."
+      },
+      "faqThird": {
+        "question": "Website response time is slow, how to improve?",
+        "answer": "To improve website response time, consider the following:\n1. Optimize images and multimedia content for faster loading.\n2. Use a Content Delivery Network (CDN) to serve content closer to users.\n3. Minimize HTTP requests by combining files and scripts.\n4. Implement caching strategies to store frequently accessed data.\n5. Upgrade your web hosting plan or server resources if needed."
+      },
+      "faqFourth": {
+        "question": "How do I create an account?",
+        "answer": "Creating an account is simple:\n1. Visit our website and locate the 'Sign Up' or 'Register' button.\n2. Fill out the required information, including your name, email address, and password.\n3. Follow any additional verification steps if prompted.\n4. Click 'Submit' or 'Create Account'.\n5. You may now log in with your newly created credentials."
+      },
+      "faqFifth": {
+        "question": "How to reset my password?",
+        "answer": "To reset your password:\n1. Go to the login page and click on the 'Forgot Password' or 'Reset Password' link.\n2. Enter your email address associated with your account.\n3. Check your email inbox for a password reset link.\n4. Click on the link provided and follow the instructions to set a new password.\n5. Log in with your new password."
+      }
+    }
+  },
+  "Admin": {
+    "Metadata": {
+      "title": "Admin",
+      "description": "Access the admin dashboard to manage the website."
+    },
+
+    "Login": {
+      "title": "Welcome Admin",
+      "btn": "Sign In",
+      "username": "Username",
+      "password": "Password"
+    },
+
+    "Header": {
+      "btn": "Add Product",
+      "admin": "Admin",
+      "Sheet": {
+        "imageBlock": {
+          "title": "Add product",
+          "description": "Upload your product image",
+          "label": "upload"
+        },
+        "InfoBlock": {
+          "text": "Add your Product description and necessary information",
+          "labels": ["Name", "Description", "Price", "Restaurants"],
+          "name": "Name",
+          "description": "Description",
+          "price": "Price",
+          "restaurant": "Restaurants"
+        },
+        "cancelBtn": "Cancel",
+        "submitBtn": "Create  Product"
+      }
+    },
+    "Products": {
+      "Modal": {
+        "title": "Are you sure it’s deleted ?",
+        "text": "Attention! If you delete this product, it will not come back",
+        "cancelBtn": "Cancel",
+        "deleteBtn": "Delete"
+      },
+      "EditProduct": {
+        "Sheet": {
+          "imageBlock": {
+            "title": "Edit product",
+            "description": "Upload your product image",
+            "label": "Upload"
+          },
+          "InfoBlock": {
+            "text": "Edit your Product description and necessary information",
+            "labels": [
+              "Name",
+              "Description",
+              "Price",
+              "Restaurants"
+            ],
+            "name": "Name",
+            "description": "Description",
+            "price": "Price",
+            "restaurant": "Restaurants"
+          },
+          "cancelBtn": "Cancel",
+          "submitBtn": "Update  Product"
+        }
+      }
+    },
+
+    "Aside": {
+      "title": ["Dashboard", "Products", "Restaurants", "Category", "Orders", "History", "Offer", "Log Out"]
+    },
+
+    "Category": {
+      "title": "Category",
+      "id": "ID",
+      "image": "Image",
+      "name": "Name",
+      "slug": "Slug",
+      "actions": "Actions",
+      "addCategory": "Add Category",
+
+      "EditCategory": {
+        "Sheet": {
+          "imageBlock": {
+            "title": "Edit category",
+            "description": "Upload image",
+            "label": "Upload"
+          },
+
+          "InfoBlock": {
+            "text": "Edit your category information",
+            "labels": ["Name", "Slug"],
+            "name": "Name",
+            "slug": "Slug"
+          },
+
+          "cancelBtn": "Cancel",
+          "submitBtn": "Update  Category"
+        }
+      },
+
+      "AddCategory": {
+        "Sheet": {
+          "imageBlock": {
+            "title": "Add category",
+            "description": "Upload image",
+            "label": "Upload"
+          },
+
+          "InfoBlock": {
+            "text": "Add your category information",
+            "labels": ["Name", "Slug"],
+            "name": "Name",
+            "slug": "Slug"
+          },
+
+          "cancelBtn": "Cancel",
+          "submitBtn": "Create  Category"
+        }
+      }
+    },
+
+    "Restaurants": {
+      "Metadata": {
+        "title": "Admin - Restaurants",
+        "description": "Add restaurants, edit them, delete them"
+      },
+      "Title": "Restaurants",
+      "AddRestaurant": {
+        "Sheet": {
+          "imageBlock": {
+            "title": "Add Restaurant",
+            "description": "Upload image",
+            "label": "Upload"
+          },
+          "InfoBlock": {
+            "text": "Add Your Restaurants information",
+            "labels": ["Name", "Cuisine", "Delivery Price", "Delivery min", "Adress", "Category"],
+            "name": "Name",
+            "cuisine": "Cuisine",
+            "deliveryPrice": "Delivery Price",
+            "deliveryMin": "Delivery min",
+            "address": "Adress",
+            "category": "Category"
+          },
+          "cancelBtn": "Cancel",
+          "submitBtn": "Create"
+        }
+      },
+      "EditRestaurant": {
+        "Sheet": {
+          "imageBlock": {
+            "title": "Edit Restaurant",
+            "description": "Upload image",
+            "label": "Upload"
+          },
+          "InfoBlock": {
+            "text": "Edit Your Restaurants information",
+            "labels": ["Name", "Cuisine", "Delivery Price", "Delivery min", "Adress", "Category"],
+            "name": "Name",
+            "cuisine": "Cuisine",
+            "deliveryPrice": "Delivery Price",
+            "deliveryMin": "Delivery min",
+            "address": "Adress",
+            "category": "Category"
+          },
+          "cancelBtn": "Cancel",
+          "submitBtn": "Update Restaurant"
+        }
+      }
+    },
+
+    "Offers": {
+      "title": "Offers",
+      "addOffer": "Add Offer",
+      "id": "ID",
+      "image": "Image",
+      "titleColumn": "Title",
+      "description": "Description",
+      "actions": "Actions",
+      "AddOffer": {
+        "Sheet": {
+          "imageBlock": {
+            "title": "Add Offer",
+            "description": "Upload image",
+            "label": "Upload"
+          },
+
+          "InfoBlock": {
+            "text": "Add your Offer information",
+            "labels": ["Title", "Description"],
+            "title": "Title",
+            "description": "Description"
+          },
+
+          "cancelBtn": "Cancel",
+          "submitBtn": "Create  Offer"
+        }
+      },
+      "EditOffer": {
+        "Sheet": {
+          "imageBlock": {
+            "title": "Edit Offer",
+            "description": "Upload image",
+            "label": "Upload"
+          },
+
+          "InfoBlock": {
+            "text": "Edit your offer information",
+            "labels": ["Title", "Description"],
+            "title": "Title",
+            "description": "Description"
+          },
+
+          "cancelBtn": "Cancel",
+          "submitBtn": "Edit Offer"
+        }
+      }
+    }
+  },
+
+  "User": {
+    "Metadata": {
+      "title": "Profile Settings",
+      "description": "Manage your profile, orders, and settings."
+    },
+
+    "Basket": {
+      "Metadata": {
+        "title": "Basket",
+        "description": "View your basket and manage it."
+      }
+    },
+
+    "Orders": {
+      "Metadata": {
+        "title": "Orders",
+        "description": "View your orders and manage them."
+      }
+    },
+
+    "Checkout": {
+      "Metadata": {
+        "title": "Checkout",
+        "description": "Manage your checkout settings."
+      }
+    },
+
+    "Aside": {
+      "title": ["Profile", "Your Basket", "Your Orders", "Checkout", "Logout"]
+    }
+  },
+
+  "Basket": {
+    "title": "Your Basket",
+    "items": "Items",
+    "checkout": "Checkout"
+  },
+
+  "Header-Restaurants": {
+    "restaurantName": "Papa John’s Pizza Restaurant",
+    "address": "19 Nizami street, Sabail, Baku",
+    "cuisine": "Cuisine",
+    "cuisineList": "pizza, drink, hotdog, sandwich, roll",
+    "deliveryCost": "Delivery",
+    "goBack": "Go Back"
+  },
+  "RestaurantSection": {
+    "all": "All",
+    "ariaLabelFoodCategory": "food category",
+    "ariaLabelVortexLoading": "vortex-loading"
+  },
+
+  "RestaurantCard": {
+    "delivery": "Delivery",
+    "new": "New",
+    "minutes": "min"
+  },
+
+  "Checkout": {
+    "checkoutTitle": "Checkout",
+    "addressLabel": "Delivery Address",
+    "addressPlaceholder": "Ataturk 45 Ganclik Baku",
+    "phoneLabel": "Contact Number",
+    "phonePlaceholder": "+994",
+    "paymentCard": "Pay at the door by credit card",
+    "paymentCash": "Pay at the door",
+    "submitButton": "Submit"
+  },
+
+  "CheckoutOrder": {
+    "yourOrder": "Your Order",
+    "total": "Total"
+  },
+
+  "ProfileSection": {
+    "profile": "Profile"
+  },
+
+  "ProfileForm": {
+    "upload": "Upload Avatar",
+    "contact": "Contact Number",
+    "email": "Email Address",
+    "username": "Username",
+    "address": "Address",
+    "fullName": "Full Name",
+    "save": "Save",
+    "contactPlaceholder": "+994",
+    "emailPlaceholder": "info@eacamp.com",
+    "usernamePlaceholder": "eacampm1",
+    "addressPlaceholder": "Ataturk 45 Ganclik Baku",
+    "fullNamePlaceholder": "Fuad Pashayev"
+  },
+
+  "AdminOrders": {
+    "Products": {
+      "Modal": {
+        "deleteBtn": "Delete",
+        "title": "Are you sure you want to delete this order?",
+        "text": "This action cannot be undone.",
+        "cancelBtn": "Cancel"
+      }
+    }
+  },
+
+  "OrdersSection": {
+    "yourOrders": "Your Orders",
+    "show": "Show"
+  },
+
+  "DashboardSection": {
+    "assignedRisk": "Assigned Risk",
+    "noRisksAssigned": "There are no risks assigned.",
+    "assignedActionItems": "Assigned Action Items",
+    "noActionItems": "There are no action items assigned."
+  },
+
+  "SalaryChart": {
+    "totalSalary": "Total Salary"
+  },
+
+  "OrdersChart": {
+    "orders": "Orders",
+    "projectsByAccount": "Projects by Account",
+    "totalProjects": "Total Projects"
+  },
+
+  "ProductList": {
+    "title": "Products",
+    "description": "Prepared with quality, a slice of cheese and special sauce"
+  }
+}
